@@ -1,11 +1,15 @@
 {
   "name": "gale-logger",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "A simple timestamped logger",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "https://github.com/alex-gale",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-gale/gale-logger"
+  }
 }
